@@ -14,9 +14,9 @@
     var node = document.getElementsByTagName('script')[0];
     node.parentNode.insertBefore(gads, node);
   })();
-</script>
 
-<script type='text/javascript'>
+
+
   googletag.cmd.push(function() {
     googletag.defineSlot('/23585023/video-rengi.net//Desktop//Crt//728x90', [728, 90], 'div-gpt-ad-1456753351050-0').addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
@@ -24,16 +24,7 @@
   });
 
 
-
-
-<!-- /23585023/video-rengi.net//Desktop//Crt//728x90 -->
-<div id='div-gpt-ad-1456753351050-0' style='height:90px; width:728px;'>
-<script type='text/javascript'>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456753351050-0'); });
-</script>
-</div>
-
-document.write("<div id='div-gpt-ad-1455710296904-0' style='height:auto; width:728px; height:90px;'><scri"+"pt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455710296904-0'); });</scri"+"pt></div>");
+document.write("<div id='div-gpt-ad-1456753351050-0' style='height:auto; width:728px; height:90px;'><scri"+"pt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456753351050-0'); });</scri"+"pt></div>");
 
 document.write('<a href="http://connect.digital" style="position: absolute;top: 65px;right: 10px;"><img src="http://cdn.connect.digital/logo.png"></a>');
 
