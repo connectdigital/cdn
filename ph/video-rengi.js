@@ -18,7 +18,7 @@
 
 
   googletag.cmd.push(function() {
-    googletag.defineSlot('/23585023/video-rengi.net//Desktop//Crt//728x90', [728, 90], 'div-gpt-ad-1456753351050-0').addService(googletag.pubads());
+    googletag.defineSlot('/23585023/video-rengi.net//Desktop//Crt//728x90', [728, "auto"], 'div-gpt-ad-1456753351050-0').addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
