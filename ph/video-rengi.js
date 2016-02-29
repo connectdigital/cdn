@@ -32,3 +32,10 @@
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456753351050-0'); });
 </script>
 </div>
+
+document.write("<div id='div-gpt-ad-1455710296904-0' style='height:auto; width:728px; height:90px;'><scri"+"pt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1455710296904-0'); });</scri"+"pt></div>");
+
+document.write('<a href="http://connect.digital" style="position: absolute;top: 65px;right: 10px;"><img src="http://cdn.connect.digital/logo.png"></a>');
+
+document.write('</div></div>');
+
