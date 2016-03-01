@@ -12,4 +12,6 @@ document.write(body_code)
 document.write('<a href="http://connect.digital" style="position: absolute;top: 65px;right: 10px;"><img src="http://cdn.connect.digital/logo.png"></a>');
 document.write('</div></div>');
 
+document.write('<style> #-stick-footer-1455632411732 div{ height:auto!important; } </style>');
+
 })();
