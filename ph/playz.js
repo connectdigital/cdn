@@ -1,6 +1,6 @@
 (function(){
   
-var position_add = "<scr"+"ipt type='text/javascript'> googletag.cmd.push(function() {googletag.defineSlot('/23585023/Playz.com//Desktop//Crt//728x90', [728, 90], 'div-gpt-ad-1456780504093-0').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();}); </scr"+"ipt>";
+var position_add = "<scr"+"ipt type='text/javascript'> googletag.cmd.push(function() {googletag.defineSlot('/23585023/Playz.com//Desktop//Crt//728x90', [728, 'auto'], 'div-gpt-ad-1456780504093-0').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();}); </scr"+"ipt>";
 var body_code = "<div id='div-gpt-ad-1456780504093-0' style='height:auto; width:728px;'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456780504093-0'); });</scr"+"ipt></div>";
 
 
