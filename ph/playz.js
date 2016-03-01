@@ -1,3 +1,5 @@
+(function(){
+  
 var position_add = "<scr"+"ipt type='text/javascript'> googletag.cmd.push(function() {googletag.defineSlot('/23585023/Playz.com//Desktop//Crt//728x90', [728, 90], 'div-gpt-ad-1456780504093-0').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();}); </scr"+"ipt>";
 var body_code = "<div id='div-gpt-ad-1456780504093-0' style='height:90px; width:728px;'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1456780504093-0'); });</scr"+"ipt></div>";
 
@@ -9,3 +11,5 @@ document.write('<div id="-stick-footer-1455632411732" style="  border-top-width:
 document.write(body_code)
 document.write('<a href="http://connect.digital" style="position: absolute;top: 65px;right: 10px;"><img src="http://cdn.connect.digital/logo.png"></a>');
 document.write('</div></div>');
+
+})();
