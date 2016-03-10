@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VAST version="2.0">
+  <Ad id="E7">
+    <InLine>
+      <AdSystem><![CDATA[Pre-roll]]></AdSystem>
+      <AdTitle><![CDATA[Pre-roll Video]]></AdTitle>
+      <Description><![CDATA[Pre-roll Video]]></Description>
+      <Impression id="Impression" />
+      <Impression id="AdvertiserNotifyUrl" />
+      <Creatives>
+        <Creative id="uD" sequence="1" AdID="E7">
+          <Linear>
+            <Duration><![CDATA[00:00:30]]></Duration>
+            <TrackingEvents>
+              <Tracking event="start" />
+              <Tracking event="firstQuartile" />
+              <Tracking event="midpoint" />
+              <Tracking event="thirdQuartile" />
+              <Tracking event="complete" />
+              <Tracking event="mute" />
+              <Tracking event="unmute" />
+              <Tracking event="pause" />
+              <Tracking event="fullscreen" />
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough><![CDATA[http://www.mercedes-benz.com.tr/content/turkey/mpc/mpc_turkey_website/tr/home_mpc/passengercars/home/new_cars/models/c-class/c205.html#_int_passengercars:home:model-navi:c205]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile id="uDblqkMFLCA=" delivery="progressive" type="video/mp4" bitrate="896" width="500" height="300"><![CDATA[http://playz-p.mncdn.com/static/video/mercedes-1-keep.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions />
+    </InLine>
+  </Ad>
+</VAST>
