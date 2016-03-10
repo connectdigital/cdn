@@ -9,7 +9,7 @@
       <Impression id="AdvertiserNotifyUrl" />
       <Creatives>
         <Creative id="uD" sequence="1" AdID="E7">
-          <Linear>
+          <Linear skipoffset="00:00:10">
             <Duration><![CDATA[00:00:30]]></Duration>
             <TrackingEvents>
               <Tracking event="start" />
